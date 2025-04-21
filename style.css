@@ -163,7 +163,7 @@ header .follow a:hover{
 }
 
 .home .content .hi{
-	font-size: 2rem;
+	font-size: 3.5rem;
 	color: var(--main-color);
 }
 .home .content h3{
@@ -500,7 +500,7 @@ footer{
 
 @media (max-width: 991px) {
 	html{
-		font-size: 55%;
+		font-size: 50%;
 	}
 	body{
 		padding: 0;
@@ -523,7 +523,7 @@ footer{
 
 @media (max-width: 450px){
 	html{
-		font-size: 50%;
+		font-size: 40%;
 	}
 	header{
 		width: 100%;
