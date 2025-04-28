@@ -242,7 +242,6 @@ header .follow a:hover{
 	color: var(--main-color);
 }
 
-
 .about .row-1 .container{
 	text-align: center;
 	flex:1 1 40rem;
@@ -543,7 +542,7 @@ footer{
 
 @media (max-width: 1180px) {
 	html{
-		font-size: 40%;
+		font-size: 45%;
 	}
 
 }
@@ -577,6 +576,7 @@ footer{
 		padding-left: 0;
 	}
 }
+
 @media (max-width: 590px) {
 	.about .row-1 .content h3{
 		padding-left: 0;
@@ -589,19 +589,12 @@ footer{
 	}
 }
 
-
 @media (max-width: 450px){
 	html{
-		font-size: 40%;
+		font-size: 50%;
 	}
 	header{
 		width: 100%;
-	}
-	.home .image{
-		margin-top: -120px;
-	}
-	.home .content h3{
-		font-size: 25px;
 	}
 	.modal{
 		padding-top: 120px;
