@@ -596,6 +596,9 @@ footer{
 	header{
 		width: 100%;
 	}
+	.home .image img {
+		margin-top: -50px;
+	}
 	.modal{
 		padding-top: 120px;
 	}
